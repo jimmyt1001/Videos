@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "react-router-dom": "^7.2.0",
+    "router-dom": "^3.0.3"
+  },
+  "devDependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
